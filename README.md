@@ -1,3 +1,5 @@
+Honglian Wang ： 虽然以后很可能不会再做深度学习了，不过还是留下这份简单的代码做备用。画图的部分挺有意思的～
+
 # Stock Price Prediction of Apple Inc. Using Recurrent Neural Network
 OHLC Average Prediction of Apple Inc. Using LSTM Recurrent Neural Network
 
